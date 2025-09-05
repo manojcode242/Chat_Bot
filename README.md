@@ -14,5 +14,5 @@
 # Bot Screenshot
 
 <p align="center">
-  <img src="images/chat_bot.png" alt="Chatbot Demo" width="600"/>
+  <img src="chat_bot.png" alt="Chatbot Demo" width="600"/>
 </p>
