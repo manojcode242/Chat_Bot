@@ -5,11 +5,11 @@
 
 ### Streamlit Agentic Chatbot Application designed with a modular LangGraph workflow for structured reasoning and contextual awareness.
 
-### **•** Workflow Orchestration : Powered by LangGraph with integrated memory and session tracking for coherent multi-turn conversations.
+#### **•** Workflow Orchestration : Powered by LangGraph with integrated memory and session tracking for coherent multi-turn conversations.
 
-### **•** Inference & LLM :  Backed by Groq Inference Engine, utilizing the GROQ TXT model for fast and reliable responses.
+#### **•** Inference & LLM :  Backed by Groq Inference Engine, utilizing the GROQ TXT model for fast and reliable responses.
 
-### **•** User Experience : Streamlit-based interactive UI with session history, clean design, and secure API key management.
+#### **•** User Experience : Streamlit-based interactive UI with session history, clean design, and secure API key management.
 
 # 📸 Bot Screenshot
 
