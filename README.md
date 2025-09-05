@@ -1,7 +1,7 @@
 # 🤖 A Streamlit Chatbot with LangGraph and Groq LLM
 
 
-## 📌Project Overview
+## 📌 Project Overview
 
 ### Streamlit Agentic Chatbot Application designed with a modular LangGraph workflow for structured reasoning and contextual awareness.
 
@@ -16,6 +16,8 @@
 <p align="center">
   <img src="chat_bot.png" alt="Chatbot Demo" width="1000"/>
 </p>
+
+# 🚀 Installation & Setup
 
 ### 1 : Navigate to the project directory
 cd streamlit_langgraph_chatbot-main
