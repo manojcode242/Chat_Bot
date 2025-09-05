@@ -7,7 +7,7 @@
 
 ### **•** Workflow Orchestration : Powered by LangGraph with integrated memory and session tracking for coherent multi-turn conversations.
 
-### **•** Inference & LLM :  Backed by Groq Inference Engine, utilizing the GROQ model for fast and reliable responses.
+### **•** Inference & LLM :  Backed by Groq Inference Engine, utilizing the GROQ TXT model for fast and reliable responses.
 
 ### **•** User Experience : Streamlit-based interactive UI with session history, clean design, and secure API key management.
 
@@ -20,20 +20,23 @@
 # 🚀 Installation & Setup
 
 ### 1 : Navigate to the project directory
-cd streamlit_langgraph_chatbot-main
+```cd streamlit_langgraph_chatbot-main```
 
 ### 2 : Create a virtual environment
-py -m venv .venv
+```py -m venv .venv```
 
 ### 3 : Activate the virtual environment (Windows)
-.\.venv\Scripts\Activate
+```.\.venv\Scripts\Activate```
 
-### 4 : Upgrade pip
-python -m pip install --upgrade pip
+### 4 : Activate the virtual environment (mac)
+```source .venv/bin/activate```
 
-### 5 : Install dependencies
-pip install streamlit langgraph langchain_groq
+### 5 : Upgrade pip
+```python -m pip install --upgrade pip```
 
-### 6 : Run the Streamlit app
-streamlit run main.py
+### 6 : Install dependencies
+```pip install streamlit langgraph langchain_groq```
+
+### 7 : Run the Streamlit app
+```streamlit run main.py```
 
