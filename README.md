@@ -7,7 +7,7 @@
 
 #### **•** Workflow Orchestration : Powered by LangGraph with integrated memory and session tracking for coherent multi-turn conversations.
 
-#### **•** Inference & LLM :  Backed by Groq Inference Engine, utilizing the GROQ TXT model for fast and reliable responses.
+#### **•** Inference & LLM :  Backed by Groq Inference Engine, utilizing the GROQ model for fast and reliable responses.
 
 #### **•** User Experience : Streamlit-based interactive UI with session history, clean design, and secure API key management.
 
