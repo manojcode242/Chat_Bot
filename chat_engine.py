@@ -6,7 +6,7 @@ from langgraph.graph import START, MessagesState, StateGraph
 class ChatBot:
     AVAILABLE_MODELS = {  # add models as per your Groq account
         # DOC : https://console.groq.com/docs/models (note models change over time)
-        "groq/compound-mini": "groq/compound-mini",
+        "llama-3.3-70b-versatile": "llama-3.3-70b-versatile",
         "qwen/qwen3-32b": "qwen/qwen3-32b",
         "groq/compound": "groq/compound",
         "llama-3.1-8b-instant": "llama-3.1-8b-instant"
